@@ -8,4 +8,3 @@ require_once("model.php");
 
 db_mail();
 
-?>
